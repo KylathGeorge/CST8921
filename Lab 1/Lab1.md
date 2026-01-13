@@ -49,3 +49,7 @@ In this we can see the evaluation results and they mean the following:
 - Relative Absolute Error: The average of absolute errors relative to the absolute difference between actual values and the average of all actual values.
 - Relative Squared Error: The average of squared errors relative to the squared difference between the actual values and the average of all actual values.
 - Coefficient of Determination: Also known as the R squared value, this statistical metric indicates how well a model fits the data.
+  
+## Step 14
+
+![alt text](image-8.png)
