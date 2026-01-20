@@ -57,3 +57,11 @@ Associated NSG with the private subnet(default2):
 ![alt text](image-8.png)
 
 ## Task 5
+
+Created Outbound rule for allowing azure storage:
+
+![alt text](image-9.png)
+
+Create Outbound rule for denying internet access:
+
+![alt text](image-10.png)
