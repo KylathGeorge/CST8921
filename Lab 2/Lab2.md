@@ -38,3 +38,17 @@ US East 2 Selection:
 
 ## Task 2
 
+### Steps 1-5
+
+Creating the Virtual Network:
+
+![alt text](image-6.png)
+
+## Task 3
+
+Creating private and public subnets: Default2 is the private subnet
+
+![alt text](image-7.png)
+
+## Task 4
+
