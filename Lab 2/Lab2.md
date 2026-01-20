@@ -52,3 +52,8 @@ Creating private and public subnets: Default2 is the private subnet
 
 ## Task 4
 
+Associated NSG with the private subnet(default2):
+
+![alt text](image-8.png)
+
+## Task 5
