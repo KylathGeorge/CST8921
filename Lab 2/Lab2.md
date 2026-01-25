@@ -65,3 +65,27 @@ Created Outbound rule for allowing azure storage:
 Create Outbound rule for denying internet access:
 
 ![alt text](image-10.png)
+
+## Task 6: Configure NSG for Public Subnet (RDP Access)
+
+Inbound Rule - Allow RDP
+
+![alt text](image-11.png)
+
+## Task 7: Create a Storage Account with File Share
+
+![alt text](image-12.png)
+
+## Task 8: Deploy Virtual Machines
+
+vm-public:
+
+![alt text](image-13.png)
+
+vm-private:
+
+![alt text](image-14.png)
+
+## Task 9: Test Storage Access from Private Subnet (Allowed)
+
+
