@@ -88,4 +88,11 @@ vm-private:
 
 ## Task 9: Test Storage Access from Private Subnet (Allowed)
 
+I tried to connect to both the private and public, but I kept getting this error:
+
+![alt text](image-15.png)
+
+## Clean-up
+
+![alt text](image-16.png)
 
