@@ -22,6 +22,12 @@
 
 ![alt text](image-3.png)
 
-### Step 10
+### Step 10-16
 
+![alt text](image-4.png)
 
+### Step 17-20
+
+![alt text](image-5.png)
+
+### Step 21
