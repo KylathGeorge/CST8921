@@ -36,3 +36,18 @@ I am not sure where this is in the screenshot, but I did enable applicaton insig
 
 ## Step E1: Create Sample Data File
 
+![alt text](image-7.png)
+
+## Step E2: Upload sample data file
+
+![alt text](image-8.png)
+
+## Step F1: Confirm function invocation
+
+Uploading data seems to make my function disappear completely which means I cannot finish the lab........
+
+![alt text](image-9.png)
+
+## Part G: Cleanup
+
+![alt text](image-10.png)
