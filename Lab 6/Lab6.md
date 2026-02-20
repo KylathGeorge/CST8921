@@ -34,10 +34,6 @@ Confirmation of deployment:
 
 ![alt text](image-5.png)
 
-404 page:
-
-![alt text](image-6.png)
-
-## Cleanup:
+## Cleanup
 
 ![alt text](image-7.png)
